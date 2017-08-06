@@ -9,7 +9,9 @@ Read all about it at http://pitest.org
 
 ### 1.2.3-SNAPSHOT
 
-add maven 3.5.0 for testing
+* Update to ASM 6 for Java 9 support
+* add maven 3.5.0 to travis build for testing
+
 ### 1.2.2
 
 * #367 - Static analysis cannot find core classes in some projects
