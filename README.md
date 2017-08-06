@@ -9,8 +9,7 @@ Read all about it at http://pitest.org
 
 ### 1.2.3-SNAPSHOT
 
-Nothing yet - why not contribute?
-
+add maven 3.5.0 for testing
 ### 1.2.2
 
 * #367 - Static analysis cannot find core classes in some projects
